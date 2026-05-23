@@ -1,3 +1,3 @@
-# Intellistra-ConciergeServices
+# concierge-services-erp
 
 Concierge Services ERP — powered by APPNEURAL
